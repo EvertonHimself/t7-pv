@@ -1,0 +1,49 @@
+body 
+{
+	font-family: "Helvetica", "Lucida Grande", sans-serif;
+	color: #2f3030;
+	width: 940px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1
+{
+	padding: 2px;
+	background-color: green;
+}
+
+h2
+{
+	border-bottom: 2px solid black;
+}
+
+figure
+{
+	text-align: center;
+	background-color: whitesmoke;
+	border: 1px solid lightgray;
+}
+
+figcaption
+{
+	margin-top: 2px;
+}
+
+.escritorio-everton
+{
+	width: 550px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.familia-oliveira
+{
+	width: 275px;
+	float: right;
+}
+
+figure img
+{
+	width: 100%;
+}
